@@ -65,25 +65,39 @@ The final dataset is now standardized and optimized for further analysis.
 
 
 ## 2. E-Commerce Sales Dashboard
+
 ### 2.1. Overview
 This E-Commerce Sales Dashboard provides valuable insights into revenue performance, product trends, and customer order behavior. It analyzes sales data across different product categories, fulfillment types, and service levels to help businesses make data-driven decisions.
+
 ### 2.2. Problem Statement
 Managing e-commerce sales efficiently requires continuous monitoring of key metrics like total revenue, order cancellations, and returns. Without a clear view of these insights, businesses may struggle with inventory management, profitability, and customer satisfaction. This dashboard addresses these challenges by offering an interactive, real-time visualization of sales performance.
+
 ### 2.3. Features
 •	Total Revenue Overview: Displays total revenue generated within a specific timeframe.
+
 •	Revenue Breakdown by Category: Helps businesses understand which product categories contribute the most to sales.
+
 •	Top 10 Products by Revenue: Identifies best-selling products to optimize stock levels and marketing efforts.
+
 •	Revenue Trend Analysis: Tracks revenue fluctuations over time to detect seasonal trends and performance shifts.
+
 •	Service Type & Fulfillment Analysis: Compares sales based on shipping methods and fulfillment sources.
+
 •	Cancellation & Return KPIs: Monitors the percentage of cancelled and returned orders, highlighting potential loss.
+
 •	Geographical Revenue Distribution: Visualizes sales performance by state using a dynamic map.
+
 •	Interactive Filters: Users can filter data based on business type, promotion, state, and style preferences.
 
 ### 2.4. Data Insights
 •	Sales Performance: The majority of revenue comes from "Set" and "Ethnic Dress" categories, with "Western Dress" following.
+
 •	Product Demand: The highest-selling product (JNE3797) significantly outperforms others, indicating strong demand.
+
 •	Order Cancellations: Cancellation rates are 14.22%, leading to a loss of over $214K, which requires further investigation.
+
 •	Returns Impact: The return rate is 1.63%, resulting in a $24.78K loss, showing that most orders are successfully completed.
+
 •	Regional Performance: Certain regions, such as New Delhi, contribute significantly to revenue, while others show lower engagement.
 
 ### 2.5. How to Use
