@@ -1,3 +1,6 @@
+Dashboard Link: https://app.powerbi.com/groups/me/reports/5c6e389f-bd71-4be6-be92-ddea6b806f6b/371d7e3fbb9696e38514?experience=power-bi
+
+
 ##  1. Data Cleaning and Standardization
 
 The dataset was cleaned and standardized using SQL to ensure consistency, remove duplicates, and improve data quality. The following steps were undertaken:
