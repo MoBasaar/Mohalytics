@@ -95,14 +95,16 @@ Managing e-commerce sales efficiently requires continuous monitoring of key metr
 
 ### 2.6. How It Helps Stakeholders
 •	Sales & Marketing Teams: Identify top-performing products and regions to optimize promotions and campaigns.
+
 •	Inventory Managers: Monitor demand trends and reduce stock shortages or overstocking.
+
 •	Operations & Fulfillment Teams: Improve shipping and fulfillment strategies based on customer preferences.
+
 •	Finance & Strategy Leaders: Track revenue growth, losses due to cancellations/returns, and make data-driven decisions.
 
 ### 2.7. Technical Details
-•	Built with: Power BI
-•	Data Sources: SQL/Excel/API (depending on setup)
-•	Data Refresh: Real-time or scheduled updates
+•	Data Sourcing, Cleaning and Standardizing: MySQL
+• Dashbaord Built with: Power BI
 
 ### 2.8. Contact
 For any inquiries, reach out via m.basaar@gmail.com
