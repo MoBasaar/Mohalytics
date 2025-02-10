@@ -18,7 +18,9 @@ Used ROW_NUMBER() to identify duplicate records based on order_id, sku, date, an
 
 Deleted duplicate records from the sales table.
 
-## 1.3. Date Formatting
+Dropped the auxilary table and kept "sales" table that contains unique data.
+
+### 1.3. Date Formatting
 
 Identified inconsistent date formats (%m-%d-%y and %m/%d/%Y).
 
