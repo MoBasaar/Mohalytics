@@ -2,7 +2,7 @@
 
 The dataset was cleaned and standardized using SQL to ensure consistency, remove duplicates, and improve data quality. The following steps were undertaken:
 
-## 1.1. Database and Table Setup
+### 1.1. Database and Table Setup
 
 Created a new database (amazon) and structured tables (sales and sales2).
 
@@ -10,7 +10,7 @@ Defined appropriate data types for each column.
 
 Checked table structures using DESCRIBE.
 
-## 1.2. Data Loading and Duplicate Removal
+### 1.2. Data Loading and Duplicate Removal
 
 Loaded data from a CSV file into sales2.
 
@@ -26,7 +26,7 @@ Standardized the date column using STR_TO_DATE() and modified the column type to
 
 Filtered the dataset to include only Q4 data (dates after 2022-04-01).
 
-## 1.4. Handling Missing Values
+### 1.4. Handling Missing Values
 
 Checked for NULL values across key columns.
 
@@ -34,7 +34,7 @@ Updated missing currency values to 'INR'.
 
 Converted amount values from INR to AUD by multiplying by 0.018.
 
-## 1.5. Standardizing Categorical Columns
+### 1.5. Standardizing Categorical Columns
 
 Recategorized status values:
 
@@ -48,11 +48,11 @@ Standardized b2b values: 'TRUE' → 'Business', else 'Consumer'.
 
 Simplified category values by grouping ethnic wear into 'Ethnic Dress'.
 
-## 1.6. Removing Unnecessary Columns
+### 1.6. Removing Unnecessary Columns
 
 Dropped columns that were not useful for analysis, including courier_status, asin, fulfilled_by, and sales_channel (since over 99% of transactions occurred through the same channel).
 
-## 1.7. Final Data Validation
+### 1.7. Final Data Validation
 
 Verified data integrity by checking value distributions across key columns.
 
