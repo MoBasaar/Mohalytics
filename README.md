@@ -118,6 +118,7 @@ o	Suggestion: Evaluate the reasons for returns, such as size discrepancies, prod
 ##### •	Regional Performance:
 
 o	Insight: Certain regions, like New Delhi, contribute significantly to revenue, while others show lower engagement. This suggests that sales are geographically concentrated, and some areas are underperforming.
+
 o	Suggestion: Allocate more marketing efforts and resources to underperforming regions to increase engagement. Tailoring campaigns to local preferences and collaborating with regional influencers could boost visibility. Additionally, consider offering location-based promotions or discounts to encourage purchases in areas with lower sales. Analyzing demographic and socio-economic data may also provide insights into why certain regions are underperforming and what can be done to improve sales there.
 
 
